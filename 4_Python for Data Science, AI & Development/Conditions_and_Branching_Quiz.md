@@ -2,6 +2,7 @@ Practice Quiz
 
 
 Question 1
+
 what is the result of the following: 1=2
 
 SyntaxError:can't assign to literal
