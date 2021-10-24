@@ -1,4 +1,4 @@
-# Couresa_Notes
+# Coursera_Notes
 
 This is a collection of my notes gathered from Coursera. It may contain pdf, jupyter notebooks, quiz, test questions, and videos.
 
