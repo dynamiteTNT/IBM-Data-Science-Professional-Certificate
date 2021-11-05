@@ -2,7 +2,7 @@
 
 This is a collection of my notes gathered from Coursera - IBM Data Science Track. All of the documentation, code, and notes can be found here in thes repo.
 
-For questions or comments, please feel free to reach out on https://www.linkedin.com/in/thanh831/.
+For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/thanh831/).
 
 See my certification(s) that I have completed below ⬇⬇
 
